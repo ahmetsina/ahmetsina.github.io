@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Ahmet Sina Ustem
+bio: Student - Jr. Full-Stack Developer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://ahmetsina.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -32,38 +32,32 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: ustemahmed
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/ahmet-sina-ustem-31a910b8/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
-# stackoverflow: 7044681/mystackoverflow
+github: ahmetsina
+stackoverflow: 4711785/ahmet-ustem
 # quora: userquora
 # reddit: username
-medium: medium
+medium: @ahmetustem
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: asend.ustem@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    ahmetsina:
+        name: Ahmet Sina Ustem
+        bio: Student - Jr. Full-Stack Developer
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: ustemahmed
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
