@@ -39,7 +39,7 @@ Açılış konuşmasını Barış Yesugey yaptı. GDG Istanbul’daki konuşman�
     </div>
 
     <div class="toright">
-        <img class="image" src="images/post-images/df15-tek.jpeg" alt="Alt Text">
+        <img class="image" src="images/post-images/df15-tek.jpg" alt="Barış Yesugey'in sunumundan">
         <figcaption class="caption">Barış Yesugey'in sunumundan</figcaption>
     </div>
 </div>
