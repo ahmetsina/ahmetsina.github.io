@@ -33,16 +33,11 @@ Etkinlikteki büyük sıkıntımız daha önce de arkadaşlara belirttiğim gibi
 
 Açılış konuşmasını Barış Yesugey yaptı. GDG Istanbul’daki konuşmanın aynısıydı. Istanbul’da dinleyemediğimi burada tamamlamış oldum.
 
-<div class="side-by-side">
-    <div class="toleft">
-        <p>Sonrasında sırasıyla konuşmacılar çıktı. Öğlene kadar daha çok teorik ve tanıtıma dayalı konuşmalar oldu diyebilirim. Öğleden sonra ise Kadirhan ile ben Geleceği Yazanlar App Inventor Workshop’una katıldık. Kadirhan anlatırken ben de sorusu olanlara yardım ettim. Arada Layout ve Design konusunda bir kaç konu anlattım. Workshoptan sonra girebildiğim konuşmalara girdim. Ve etkinlik sonunda çekiliş yapıldı. Bir kişiye Turkcell T60 telefonu verildi ve diğer Cardboard hediyeleri de sahiplerini buldu.</p>
-    </div>
 
-    <div class="toright">
-        <img class="image" src="images/post-images/df15-tek.jpg" alt="Barış Yesugey'in sunumundan">
-        <figcaption class="caption">Barış Yesugey'in sunumundan</figcaption>
-    </div>
-</div>
+Sonrasında sırasıyla konuşmacılar çıktı. Öğlene kadar daha çok teorik ve tanıtıma dayalı konuşmalar oldu diyebilirim. Öğleden sonra ise Kadirhan ile ben Geleceği Yazanlar App Inventor Workshop’una katıldık. Kadirhan anlatırken ben de sorusu olanlara yardım ettim. Arada Layout ve Design konusunda bir kaç konu anlattım. Workshoptan sonra girebildiğim konuşmalara girdim. Ve etkinlik sonunda çekiliş yapıldı. Bir kişiye Turkcell T60 telefonu verildi ve diğer Cardboard hediyeleri de sahiplerini buldu.
+
+![Markdowm Image][8]
+<figcaption class="caption">Barış Yesugey'in konuşmasından</figcaption>
 
 
 
@@ -55,3 +50,4 @@ Etkinlik büyük bir birliktelik ve yardımlaşma ile gerçekleşti. Sadece GDG 
 [5]: https://plus.google.com/101591578664230961035
 [6]: https://www.google.com/design/spec/material-design/introduction.html
 [7]: https://github.com/mekya
+[8]: images/post-images/df15-tek.jpg
