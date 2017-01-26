@@ -2,8 +2,7 @@
 title: "Rails 5 Yenilikleri"
 layout: post
 date: 2016-07-01 22:44
-image: weblog.rubyonrails.org/images/rails-logo.svg
-headerImage: http://weblog.rubyonrails.org/images/rails-logo.svg
+image: images/post-images/rails.png
 tag:
 - rails
 - ruby
