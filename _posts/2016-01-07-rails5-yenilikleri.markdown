@@ -2,13 +2,12 @@
 title: "Rails 5 Yenilikleri"
 layout: post
 date: 2016-07-01 22:44
-image: /assets/images/markdown.jpg
+image: weblog.rubyonrails.org/images/rails-logo.svg
 headerImage: http://weblog.rubyonrails.org/images/rails-logo.svg
 tag:
 - rails
 - ruby
 blog: true
-star: true
 author: ahmetsina
 description: Rails 5. sürümü ile gelen yenilikler
 ---
@@ -29,4 +28,4 @@ Action Cable’ın asıl sevimli tarafı WebSocket çalışmanızda size Active 
 
 HTML şablonlarını sunucu tarafında renderlayan bir full-stack uygulama yapmak istiyorsanız, Rails sadece iyi bir seçim değildir. Ayrıca arka planda sadece JSON formatına ihtiyaç duyduğunuz istemci taraflı Javascript veya native uygulamalar için de bir yoldaştır. Bunun için de Rails ekibi yeni bir -api mode yapmış.
 
-`rails new backend --api` ile yapmış olduğunuz yeni uygulama, size HTML ile değil, JSON ile çalışabileceğiniz daha hafif bir iskelet ve ayarlama sunar. Bu yeniliğin üzerinde hala çalışılıyor ama iyi bir başlangıç yapıldı. Varsayılan olarak API Mode model sınıflarında `to_json`‘ı çağırmasına dayanır. Fakat daha gelişmiş çözümler için Jbuilder, Active Model Serializers ve yeni olan JSONAPI::Resources projelerine bakılabilir.
+**rails new backend --api** ile yapmış olduğunuz yeni uygulama, size HTML ile değil, JSON ile çalışabileceğiniz daha hafif bir iskelet ve ayarlama sunar. Bu yeniliğin üzerinde hala çalışılıyor ama iyi bir başlangıç yapıldı. Varsayılan olarak API Mode model sınıflarında **to_json**‘ı çağırmasına dayanır. Fakat daha gelişmiş çözümler için Jbuilder, Active Model Serializers ve yeni olan JSONAPI::Resources projelerine bakılabilir.
