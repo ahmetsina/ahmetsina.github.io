@@ -2,7 +2,8 @@
 title: "Rails 5 Yenilikleri"
 layout: post
 date: 2016-07-01 22:44
-image: images/post-images/rails.png
+image: /assets/images/post-images/rails.png
+headerImage: /assets/images/post-images/rails.png
 tag:
 - rails
 - ruby

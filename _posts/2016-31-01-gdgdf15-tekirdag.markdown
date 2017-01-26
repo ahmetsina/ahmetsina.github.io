@@ -2,7 +2,8 @@
 title: "GDG Tekirdag Devfest 2015"
 layout: post
 date: 2016-07-01 22:44
-image: /images/post-images/gdg-icon.png
+image: /assets/images/post-images/gdg-icon.png
+headerImage: /assets/images/post-images/gdg-icon.png
 tag:
 - gdg
 - devfest
@@ -36,9 +37,8 @@ Açılış konuşmasını Barış Yesugey yaptı. GDG Istanbul’daki konuşman�
 
 Sonrasında sırasıyla konuşmacılar çıktı. Öğlene kadar daha çok teorik ve tanıtıma dayalı konuşmalar oldu diyebilirim. Öğleden sonra ise Kadirhan ile ben Geleceği Yazanlar App Inventor Workshop’una katıldık. Kadirhan anlatırken ben de sorusu olanlara yardım ettim. Arada Layout ve Design konusunda bir kaç konu anlattım. Workshoptan sonra girebildiğim konuşmalara girdim. Ve etkinlik sonunda çekiliş yapıldı. Bir kişiye Turkcell T60 telefonu verildi ve diğer Cardboard hediyeleri de sahiplerini buldu.
 
-![Markdowm Image][8]
+![Barış Yesugey sunumu][8]
 <figcaption class="caption">Barış Yesugey'in konuşmasından</figcaption>
-
 
 
 Etkinlik büyük bir birliktelik ve yardımlaşma ile gerçekleşti. Sadece GDG Tekirdağ değil diğer GDG chapterlarının da bu Devfestte emeği büyüktür. Emeği geçen herkese teşekkürler. Hep birlikte mutlu olduk.
@@ -50,4 +50,4 @@ Etkinlik büyük bir birliktelik ve yardımlaşma ile gerçekleşti. Sadece GDG 
 [5]: https://plus.google.com/101591578664230961035
 [6]: https://www.google.com/design/spec/material-design/introduction.html
 [7]: https://github.com/mekya
-[8]: images/post-images/df15-tek.jpg
+[8]: https://s30.postimg.org/5skddjur5/df15_tek.jpg
