@@ -1,0 +1,55 @@
+---
+title: "GDG Devfest 2016 Ukraine"
+layout: post
+date: 2016-09-22 15:44
+image: /assets/images/post-images/gdg-icon.png
+headerImage: /assets/images/post-images/gdg-icon.png
+tag:
+- etkinlik
+- gdg
+- google
+- gezi
+blog: true
+author: ahmetsina
+description: GDG Devfest 2016 Ukrayna ve Lviv maceraları
+---
+
+
+9-10 Eylül tarihlerinde Ukrayna’nın Lviv şehrinde düzenlenen GDG Devfest Ukraine 2016 için Ağustos’un başından uçak biletlerini aldık Erolla birlikte. Biletleri o aralar sıkı takip ettiğimizden bir ara 430 liraya düştü. Ve 8 Ağustosta GDG Istanbul’un PWA etkinliğinde buluşup Pegasustan 3-11 Eylül gidiş-dönüş biletlerini aldık. Ve 3 Eylül akşamı Sabiha Gökçen Havalimanı’ndan uçakla Lviv’e gittik. Bu benim ilk kez yurt dışına çıkışımdı ve çok farklı tecrübeler edindim. O gece ilginç aksiyonlar da yaşadık. Konaklama için 4 Eylül günü ‘[Contrabass](http://contrabass.lviv.ua/ru/)’ denilen merkeze yakın bir hostelde konakladık. Kişi başı 35$ verdik 6 gün için. Türkiye’ye nazaran çok iyi bir fiyat. Tabii ki bu fiyata yiyecek dahil değil. Odada sadece 2 yatak, 2 dolap ve özel banyo, tuvalet vardı. Bizim için yeterli bir yerdi..
+
+6 gün boyunca Lviv’in merkezi olmak üzere şehrin altını üstüne getirdik. Ben zaten adres tarif edecek konuma geldim. Çok iyi insanlarla tanıştık. Şunu söylemeliyim ki Lviv’in insanları gerçekten cana yakın ve güvenilir. Şehir ise Avrupaî tarzda mimari görmek isteyen kişilerin kesinlikle görmesi gereken bir yer. 13. yy’dan kalma binalar ve eserler mevcut. Şehirde gezerken zaten bambaşka bir çağda yaşadığınızı hissediyorsunuz.
+
+6 günlük gezintinin sonunda Türkiye’den gelen arkadaşlar oldu. Etkinlik için gelen bir konuşmacımız da ([Resul Caner Yıldırım](https://twitter.com/protechman)) vardı. Ayrıca konuşmacı olarak da katılan [Mete Atamel](https://twitter.com/meteatamel) abimizle de tanıştık. Etkinlik günü öncesinde hoş muhabbetler ettik.
+
+Etkinlik günü otobüsle konuşmacılarla beraber etkinlik alanına vardık.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finally <a href="https://twitter.com/hashtag/dfua?src=hash">#dfua</a> <a href="https://twitter.com/GDGLviv">@GDGLviv</a> <a href="https://t.co/fb4jk2Gkht">pic.twitter.com/fb4jk2Gkht</a></p>&mdash; Ahmed Ustem (@ustemahmed) <a href="https://twitter.com/ustemahmed/status/774131634547286016">September 9, 2016</a></blockquote>
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Kaydımızı yaptırıp büyük salona (expo hall) geçtik.
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">From <a href="https://twitter.com/GdgTekirdag">@Gdgtekirdag</a> to <a href="https://twitter.com/hashtag/dfua?src=hash">#dfua</a> <a href="https://t.co/lwhuYNSL5D">pic.twitter.com/lwhuYNSL5D</a></p>&mdash; Ahmed Ustem (@ustemahmed) <a href="https://twitter.com/ustemahmed/status/774132356726730752">September 9, 2016</a></blockquote>
+
+Açılış sunumu yapılmadan önce DevFest duvarının önünde fotoğraf çektirdik.
+
+![Devfest Ukraine Tayfası](/assets/images/post-images/dfua.jpg)
+
+
+
+Heyecanlı bir açılış sunumunun ardından katılımcılar sunumlara dağıldı. Ben de [Jozef Vodicka](https://twitter.com/jozefvodicka)‘nın [Firebase](http://firebase.google.com/) workshopuna katıldım.
+
+
+
+Genel olarak etkinlikte Weble alakalı sunumlara katıldım. Etkinlikte bazen yer sıkıntısı yaşandı -ki bu durumun yaşanmadığı yer çok yok-. Sunum alanları dışında kalan yerlerde şirketlerin standları, VR ve AR deneyimini yaşabileceğimiz yerler açılmıştı. Özellikle [HTC Vive](http://www.htcvive.com/) ile Google’ın [Tilt Brush](http://tiltbrush.com/) uygulamasını kullanarak çok farklı bir VR deneyimine sahip oldum. VR teknolojisinin önünün açık olduğunu sadece o uygulamayı kullanarak anlayabilirsiniz. Gelecekte evdeki odalarımızın birini sırf bunun için bile kullanabiliriz.
+
+
+
+Etkinlikte bir görev vardı o görevleri tamamlayıp tweet olarak şöyle attım.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/dfua?src=hash">#dfua</a> <a href="https://twitter.com/hashtag/quest?src=hash">#quest</a> <a href="https://t.co/piazLbCgE5">pic.twitter.com/piazLbCgE5</a></p>&mdash; Ahmed Ustem (@ustemahmed) <a href="https://twitter.com/ustemahmed/status/774511696526409728">September 10, 2016</a></blockquote>
+
+Ve ödül olarak **Kotlin** tişörtü aldım. 😉
+
+Etkinlik genel olarak çok iyi geçti. Her ne kadar domuz eti servisinden dolayı aç kalsam da :). Ee her yerde dönerci olmuyor. Allah’tan arada salata patates falan çıktı da onlarla yetinebildik..
+
+![Mutlu Son!](/assets/images/post-images/dfua-end.jpg)
+Etkinliğin bitişinde yani 10 Eylül akşamı son kez Lviv’i gezdik ve gece uçağa binip tekrardan gelme ümidiyle anavatana geri döndük.

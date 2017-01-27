@@ -1,7 +1,7 @@
 ---
 title: "GDG Tekirdag Devfest 2015"
 layout: post
-date: 2016-07-01 22:44
+date: 2016-01-31 22:44
 image: /assets/images/post-images/gdg-icon.png
 headerImage: /assets/images/post-images/gdg-icon.png
 tag:

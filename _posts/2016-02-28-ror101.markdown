@@ -1,0 +1,40 @@
+---
+title: "AB16: Ruby On Rails 101"
+layout: post
+date: 2016-02-07 12:44
+image: /assets/images/post-images/rails.png
+headerImage: /assets/images/post-images/rails.png
+tag:
+- etkinlik
+- akademik bilişim
+- rails
+blog: true
+author: ahmetsina
+description: AB2016 Aydın ve Rails maceraları
+---
+
+
+Merhaba,
+
+Bu yıl Aydın’da gerçekleştirilen Akademik Bilişim etkinliğine katıldığımı bir önceki yazımda belirtmiştim. Bu yazımda ise bu etkinlik öncesi yapılan kurslardan ve bana olan katkılarından bahsedeceğim.
+
+Kurslar daha önceden organize edildiği şekilde gerçekleşti. Kurslar listesi ve kurs öncesi bilgileri Akademik Bilişim’in [sitesinden][1] aldık. Etkinlik sonrasında kurslarla ilgili rakamlara dayalı bilgiyi [Mustafa Akgül][2] hocamız açıkça vermiş:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="tr" dir="ltr">AB öncesi  kurslarda 1300 kursiyer vardı. 34 kurs , 42 sınıfta yapıldı.<br>yaklaiık 200 (6 sınıf)  linux101,  90 kiis (3 sınıf) linux140 !</p>&mdash; akgul (@akgul) <a href="https://twitter.com/akgul/status/695152187475955713">February 4, 2016</a></blockquote>
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Kurs öncesinden başvurular alındı. Her katılımcının sadece 3 tercih hakkı vardı. Bense bu tercihlerimi sırasıyla Ruby On Rails 101 – Django – Siber Güvenlikti. Ve ilk tercihim çıktı çok şükür. Hocalarımız Lab2023’ten [İsmail Akbudak](http://ismailakbudak.com/), [Tayfun Öziş Erikan](https://twitter.com/toziserikan)  ve [Uğur Özyılmazel](https://twitter.com/vigobronx). Şahsen birbirinden yetkin bu hocalardan çok faydalandım.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="tr" dir="ltr"><a href="https://twitter.com/hashtag/ab2016?src=hash">#ab2016</a> <a href="https://twitter.com/hashtag/rails?src=hash">#rails</a> 101 sınıfından ilk 3 güne ait kareler. Tüm emeği geçenlere ve katılımcılara teşekkürler <a href="https://twitter.com/ruby_turkiye">@ruby_turkiye</a> <a href="https://t.co/ZGFkJgxRvk">pic.twitter.com/ZGFkJgxRvk</a></p>&mdash; Tayfun Öziş ERİKAN (@toziserikan) <a href="https://twitter.com/toziserikan/status/694148678622253057">February 1, 2016</a></blockquote>
+
+1. Gün: İlk tanışma ve kaynaşma oldu. İstatistiklere bakıldı sınıf ne durumda diye. Kim, hangi dille ne   uğraşıyor diye. Tabi az da olsa görmüş olduğumuz dilleri de söylediğimiz için çok farklı bir grafik çıktı ortaya. İlk gün temel olarak Ruby temellerine göz attık. Halbuki katılımcıların ön şart olarak [Ruby eğitim setini](http://tryruby.org/) tamamlamaları gerekiyordu. Tabi ben buna artı olarak farklı araştırmalar da yapmıştım. Özellikle [Ruby-Lang](https://www.ruby-lang.org/tr/) sitesinden çok şey kaptım. Ruby temellerini gördükten sonra VCS sistemlerini ve tabii ki Git sistemini gördük. Scrum, Agile ve Web konusunu işledik. Birinci gün genel olarak bu şekilde geçti.
+
+2. Gün: Rails’e giriş yaptık. Tabi öncesinden gerekli Gemleri kurduk. Ve kullanıcı sistemli [Rails blog](http://guides.rubyonrails.org/getting_started.html)  uygulamasına başladık. Uygulama süresince bir çok hata aldık. Çünkü katılımcılarda farklı farklı işletim sistemleri vardı. Haliyle farklı farklı hataları oldu. Ama gün sonuna kadar bunu halletmiş olduk. Hele ki scaffold olayını gördükten sonra “Hey şey bu kadar kolay mıydı?!” dedik. Scaffold bizim yaptığımız o kadar şeyi tek bir satırda yaptı. Günün sonuna kadar da Tayfun Hoca’nın sunumuyla MVC’nin Model bölümünü  bitirdik.
+
+3. Gün: Son gün olmasını istemezdim açıkçası çünkü çok verimli geçiyordu. Sabahtan akşama kadar kod yazdık o gün. Model bölümünün üstüne uygulamalar yaptık. Bugün İsmail Hocamız bayağı yoruldu. Sabahtan akşama kadar kod yaz ve çıkan hatalara çözüm bulmaya çalış. Bugün çıkan hataları toplayıp stackowerflow’da cevaplasaydı eminim fena repütasyon kasardı. Gün sonuna doğru [Kebab](http://kebab-project.org/) projesinin bir alt projesi olan Kibele’yi yaptık. Kibele kısaca bir dashboard ve gem sitesinde çok iyi geri bildirim almış. Bir bakın derim açıkçası..
+
+
+### Özetle:
+Bu kurs Ruby on Rails hakkında 3 günde alabileceğim belki de en iyi eğitimi almamı sağladı. Tayfun Hocamızın sunumuyla, İsmail Hocamızın workshopuyla ve tabii ki Uğur Hocamızın tips and trickleriyle müthiş bir eğitim oldu. Bu arada [Linux Yaz Kampı](https://kamp.linux.org.tr)‘nda bunun daha uzunu oluyormuş. Geçen yaz yaptığım stajla kaçırdım bu fırsatı fakat siz kaçırmayın. Hele ki 2. sınıf iseniz. Free Software topluluğu çok farklı gerçekten. Olabildiğince yakın olmaya çalışın derim.  Bir sonraki yazımda görüşmek üzere…
+
+[1]: http://ab.org.tr/
+[2]: https://twitter.com/akgul

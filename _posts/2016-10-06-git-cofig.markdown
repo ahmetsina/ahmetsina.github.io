@@ -1,0 +1,42 @@
+---
+title: "Git Ayarlamaları "
+layout: post
+date: 2016-10-06 12:44
+image: http://ipengineer.net/wp-content/uploads/2015/04/git-logo.jpg
+headerImage: http://ipengineer.net/wp-content/uploads/2015/04/git-logo.jpg
+tag:
+- git
+- open source
+- version control
+blog: true
+author: ahmetsina
+description: Açık Kaynak Projeler ve Git
+---
+
+
+Bir önceki yazımızda Git ve git’in kurulumundan bahsettik. Kurulumunu tamamladıktan sonra yapmamız gereken ayarları da bu yazımda bahsedeceğim.
+
+Projelerde yapacağımız değişikliklerden sonra göndereceğimiz commit mesajları olacak. Fakat bu mesajın sizden gittiğini belirtmemiz için öncelikle kimlik ayarlamaları yapmamız gerekiyor. Bunu da git config komutlarıyla kolaylıkla yapabiliriz.
+
+Öncelikle Terminal yada komut satırına giriyoruz. İsim ve e-mail ayarlarımızı yapmamız için aşağıdaki kodları kullanıyoruz.
+
+Öncelikle Terminal yada komut satırına giriyoruz. İsim ve e-mail ayarlarımızı yapmamız için aşağıdaki kodları kullanıyoruz.
+
+<pre>
+$ git config --global user.name "İsminiz"
+$ git config --global user.email "emailiniz@domain.com"
+</pre>
+Bu kodları çalıştırdıktan sonra yaptığımız ayarları listelemek için kullanacağımız kod:
+<pre>
+$ git config --list
+</pre>
+Ayarlarımız da aşağıdaki gibi listeleniyor.
+<pre>
+user.name = İsminiz
+user.email = E-mailiniz</pre>
+Bu ayarlamaları da yaptıktan sonra Git sistemini öğrenmeye başlayabiliriz. Bununla alakalı daha detaylı kaynakları da listeleyelim.
+
+- [Git-Scm](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+- [Atlassian](https://www.atlassian.com/git/tutorials/install-git/linux)
+
+Gelecek yazıda da Git’e sağlam bir giriş yapacağız. Bol kodlamalı ve bol kahveli günler.. 🙂

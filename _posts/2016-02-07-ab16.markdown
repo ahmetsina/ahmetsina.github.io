@@ -1,0 +1,28 @@
+---
+title: "Akademik Bilişim Konferansı 2016"
+layout: post
+date: 2016-02-07 12:44
+image: http://burakdemirtas.org/uploads/images/akademik-bilisim.jpg
+headerImage: http://burakdemirtas.org/uploads/images/akademik-bilisim.jpg
+tag:
+- etkinlik
+- akademik bilişim
+- rails
+blog: true
+author: ahmetsina
+description: AB2016 Aydın ve Rails maceraları
+---
+
+
+Tatil mi? Ne tatili? Biz de tatil yok… Etkinlikten etkinliğe koşuyoruz. Bu sefer de [Hasan Emre Özer][1]‘in (nam-ı değer “Liseli”) tavsiye ettiği ve bu yıl 18’ncisi düzenlenen [Akademik Bilişim][2] Haftasına katıldım.
+
+
+Bu yıl konferanslar 3-5 Şubat, kurslarla birlikte 30 Ocak – 5 Şubat arasında düzenlenen Akademik Bilişim geçen sene Eskişehir’deydi. Bu yıl ise Aydın Adnan Menderes Üniversitesi’nde gerçekleşti. Geçen seneki etkinliğe katılmadığıma çok pişmanım ve bu pişmanlığımı özellikle o kursları gördükten sonra yaşadığımı ifade etmeliyim.
+
+Ülkemizin farklı ve bir o kadar güzel yerlerinden kopup gelen, bir şeyler öğrenmek için can atan insanlar bu etkinliğin atmosferini başlı başlına farklı kılıyor. Yaklaşık 2000 kişinin başvurduğu ve yalnızca 1300 civarında kişinin kabul edildiği bilişim alanındaki türlü türlü kurslar sanırım bu etkinliği etkinlik yapan en önemli neden. Çünkü 3-4 günde bir şeyler öğrenmek için gittiğiniz bu kursların eğitmenlerinin bir çoğu iş verenler veya şirket çalışanları. Dolayısıyla bir anlamda şirket içi eğitim gibi bir durum söz konusu oluyor. Daha profesyonel ve kalıcı…
+
+Katıldığım kurs Ruby On Rails 101 idi. Bununla alakalı bir yazı daha paylaşacağım. Sonuç olarak bu etkinlik çok verimli geçti. Umarım seneye daha da iyisi olur. Çünkü bu tür etkinliklerin veriminin ve yaygınlığının artması gerektiğini düşünüyorum…
+
+
+[1]: https://tr.linkedin.com/in/hasanemrebeyy
+[2]: http://ab.org.tr/
