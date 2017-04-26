@@ -1,6 +1,6 @@
 # main text of home
 name: Ahmet Sina Ustem
-bio: Student - Jr. Full-Stack Developer
+bio: Student - Full-Stack Developer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -38,7 +38,7 @@ disqus: false
 #facebook: myfacebook
 twitter: ustemahmed
 # google: mygoogle
-# instagram: myinstagram
+instagram: ahmetsinau
 # pinterest: mypinterest
 linkedin: ahmet-sina-ustem-31a910b8
 # youtube: myyoutube
@@ -54,7 +54,7 @@ email: asend.ustem@gmail.com
 authors:
     ahmetsina:
         name: Ahmet Sina Ustem
-        bio: Student - Jr. Full-Stack Developer, \#Ruby or \#Rails.
+        bio: Student - Full-Stack Developer, \#Ruby or \#Rails.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: ustemahmed
@@ -85,7 +85,7 @@ show-tags: true
 related: true
 
 # show next & prev links in blog post?
-blog-nav-links: false
+blog-nav-links: true
 
 # show author block at the end of a post ?
 show-author: true
