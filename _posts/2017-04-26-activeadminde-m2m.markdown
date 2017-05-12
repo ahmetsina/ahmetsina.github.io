@@ -18,4 +18,23 @@ Bu blog yazısını yazmak için çok uğraştım. Neden mi? Çünkü bu konuyla
 
 ### Ruby on Rails'te many-to-many ilişkisi
 Öncelikle Ruby on Rails'de **many to many** ilişkisi nasıl oluyor bir bakalım. Rails'in kendi [dokümantasyonunda](http://guides.rubyonrails.org/association_basics.html) olduğu gibi many-to-many ilişkisi şu şekilde kuruluyor. Benim ilişkim Haber ve Hategori modeli arasında oluşuyor.  <span class="evidence">Bir haber birden fazla kategoriye sahip olabilir ve bir kategoride de birden fazla haber olabilir.</span>
-{% highlight raw %} { % gist ahmetsina/5ac9890ae51f6eecf22b92bfc9451936 % } {% endhighlight %}
+{% highlight ruby %}
+class Haber < ApplicationRecord
+  has_many :kategoriler, through :categorizations  # Modelinizi oluştururken Türkçe çoğul olarak bu şekilde almasını istiyorsanız
+                                                   # config/initializers/inflections.rb dosyasında istisna olarak eklemeniz gerekmekte.
+                                                   # Örnek olarak:  inflect.irregular 'kategori', 'kategoriler'
+  has_many :categorizations
+  accepts_nested_attributes_for :kategoriler
+end
+
+class Kategori < ApplicationRecord
+  has_many :haberler, through :categorizations
+  has_many :categorizations
+  accepts_nested_attributes_for :haberler
+end
+
+class Categorization < ApplicationRecord
+  belongs_to :haber
+  belongs_to :kategori
+end
+{% endhighlight %}
