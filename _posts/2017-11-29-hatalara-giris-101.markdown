@@ -12,7 +12,7 @@ author: ahmetsina
 description: Android ve OneSignal ile ilgili bir hatanın çözümü
 ---
 
-## OneSignal Hatası
+### OneSignal Hatası
 Şu anda İnegöl ilçesinde yer alan internet haberciliği yapan [InegolOnline](http://inegolonline.com) için Android uygulaması geliştiriyorum. Uygulama geliştirmenin son safhalarına doğru bildirim özelliğini de eklemek için [OneSignal SDK](https://documentation.onesignal.com/docs/mobile-sdk-setup)'ini kullanacaktım. `build.gradle`  dosyasında gerekli bağımlılıkları ekledim. OneSignal dökümantasyonundaki her şeyi doğru yaptığımı sanıyordum. Bildirim gönderdiğimde ise hata alıyordum. Hata ile 3-4 saat uğraştıktan sonra anladım. Hata şöyle başlıyordu.
 ```
 Field 'android.support.v4.app.NotificationCompat$Builder.mNotification'
@@ -32,7 +32,7 @@ plugins {
 apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
 ```
 
-## Kanna Hatası
+### Kanna Hatası
 
 Hali hazırda Swift 3 ile yazılmış uygulamaları Swift 4'e taşırken aldığım hatalardan biri Kanna ile ilgiydi.
 
@@ -40,5 +40,3 @@ Hali hazırda Swift 3 ile yazılmış uygulamaları Swift 4'e taşırken aldığ
 Let 'kDefaultXmlParseOption' is private and cannot be referenced from a default argument value
 ```
 Bu hatayı da asıl araştırmam gereken konuyu yani kütüphaneleri de Swift 4'e taşımayı unuttuğumdan bayağı bir bocaladım. Benim gibi sorunlarla karşılaşmak istemiyorsanız herhangi bir taşınmada o taşınmaya bağlı şeylerin yani kütüphanelerin de değişime uğrayacağını unutmayın.
-
- 
