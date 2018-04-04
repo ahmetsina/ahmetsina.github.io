@@ -40,3 +40,9 @@ Hali hazırda Swift 3 ile yazılmış uygulamaları Swift 4'e taşırken aldığ
 Let 'kDefaultXmlParseOption' is private and cannot be referenced from a default argument value
 ```
 Bu hatayı da asıl araştırmam gereken konuyu yani kütüphaneleri de Swift 4'e taşımayı unuttuğumdan bayağı bir bocaladım. Benim gibi sorunlarla karşılaşmak istemiyorsanız herhangi bir taşınmada o taşınmaya bağlı şeylerin yani kütüphanelerin de değişime uğrayacağını unutmayın.
+
+### EOFError Hatası (Nisan 2018)
+
+Lisans bitirme projesi olarak aldığım makine öğrenmesi ile cinsiyet analizi projesinde karşılaştığım bir hataydı bu. Şöyle ki Python'daki **sklearn** kütüphanesi kullanarak öncelikle yaklaşık 7700 resmin HOG öznitelik çıkarımı ile SVM sınıflandırıcımı eğittim. Daha sonra bu modelde gerekli testleri yaptım. Matlab'te aldığımız score değeri %92 iken Python'da bu değer %90 oldu. Testler başarıyla gerçekleştirilince sıra modeli Flask ile web uygulamaya entegre etmeye geldi sıra. Tabi Flask web uygulamasında her defasında console'daki gibi modelinizi eğitemezsiniz. Zaman olarak çok beklemeniz gerekebilir. O yüzden **Object Serialization** kavramını bilmek gerekiyor.
+
+Bu kavramda ilgili objeyi dosyalıyorsunuz yani paketliyorsunuz ve gerektiği yerde objeyi paketten çıkartıp kullanıyorsunuz. Kendi örneğimde bunun için kullandığım **pickle** frameworku burada işe yarar gibi oldu fakat başlıkta da belirttiğim **EOFError** hatası verdi. Bu hata denilene göre WSGI hatası ve RAM kaynaklı bir hata. Araştırmalarım sonucunda işe yarar bir çözüm bulamadım. Sonrasında **sklearn**'in kendi dökümantasyonundan **joblib** frameworku ile alakalı [şöyle bir örnek](http://scikit-learn.org/stable/modules/model_persistence.html) buldum. Ve bu işime yaradı. Sizin de işinize yarar belki diye bunu burda dillendirdim. 
