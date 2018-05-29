@@ -1,7 +1,7 @@
 ---
 title: Değişik Bir Kavram, Idempotent
 layout: post
-date: 2018-01-01 13:07
+date: 2018-05-29 13:07
 image: https://i.imgflip.com/2b6jzu.jpg
 headerImage: https://i.imgflip.com/2b6jzu.jpg
 tag:
