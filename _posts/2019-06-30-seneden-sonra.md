@@ -1,11 +1,23 @@
 ---
 title: Seneden Sonra
+layout: post
+date: 2019-06-30 19:19
+image: https://panthertales.org/wp-content/uploads/2018/05/download-2.jpg
+headerImage: https://panthertales.org/wp-content/uploads/2018/05/download-2.jpg
+tag:
+- İş
+- Uygulamalar
+- Kültür
+blog: true
+author: ahmetsina
+description: Bir senede çok şey oldu.
 ---
 
 Yaklaşık neredeyse bir sene olmuş buraya yazı yazmayalı. Nedeni ise basit: Üşengeçliğim. Markdown'a geçtikten sonra elim bir türlü yazı yazmak istemiyor. 
 En son yazdığım yazı ise üniversite okumakla alakalıydı. Diferansiyel Denklemler dersini geçemememden yakınmışım. Bu dersi hala veremedim ve artık vermek de istemiyorum açıkcası. Belki hocası değişirse verebilirim çünkü tek ders sınavına gidiyorsunuz o kadar para veriyorum zaman ayırıyorum aldığım sonuç hep aynı. Yani artık umut yok gibi..
 
 Neyse geçelim bu mevzuyu. Asıl güzel olan 23 Temmuz 2018'de **[Applogist](http://applogist.com) ** şirketinde iOS Developer olarak işe başladım ve halen burada işime devam etmekteyim. Ortam ve edindiğim tecrübeler mükemmel. 1 sene içerisinde benim yürüttüğüm 2 proje vardı ve şu an bir yenisi daha geliyor. Hali hazırda App Store'da yayımlanan projelerim [RadyoBurada](https://apps.apple.com/tr/app/radyo-burada-t%C3%BCm-radyolar/id1435313429?l=tr) ve [Lingusta](https://apps.apple.com/tr/app/lingusta-metodu/id1459501143) 
+
 
 **RadyoBurada**
 
