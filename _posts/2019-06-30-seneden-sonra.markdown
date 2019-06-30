@@ -49,4 +49,6 @@ Tabi bunu ileriki aşamalarda inşallah yapmayı düşünüyorum. Belki bir [Jon
 
 Yazacak çok şey vardı da şimdilik bu kadar yeter umarım elim klavyeye biraz daha gider de daha fazla yazarım. 
 Son olarak güzel bir şarkıyı paylaşayım. Kalın sağlıcakla..
+
+<p>
 <iframe src="https://open.spotify.com/embed/track/6TqNghTOWL9NY0wGeziTpi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
